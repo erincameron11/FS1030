@@ -1,3 +1,4 @@
+// ONLY FOR REFERENCE NOTHING TO DO WITH APP
 var mysql = require('mysql');
 
 var mycon = mysql.createConnection({
