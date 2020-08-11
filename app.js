@@ -15,7 +15,8 @@ const db = mysql.createConnection ({
     host: 'localhost',
     user: 'nodeclient',
     password: '123456',
-    database: 'socka'
+    database: 'socka',
+    port: 3600
 });
 
 // connect to database
